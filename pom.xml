@@ -19,7 +19,6 @@
         <module>kafka-basics</module>
     </modules>
 
-
     <build>
         <plugins>
             <plugin>
